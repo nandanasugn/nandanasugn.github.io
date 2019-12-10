@@ -89,6 +89,10 @@ file:///C:/Users/nsury/AppData/Local/flutter/.pub-cache/hosted/pub.dartlang.org/
 file:///C:/Users/nsury/AppData/Local/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0/lib/term_glyph.dart
 file:///C:/Users/nsury/AppData/Local/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
 file:///C:/Users/nsury/AppData/Local/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_data.dart
+file:///C:/Users/nsury/AppData/Local/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.3.0/lib/url_launcher.dart
+file:///C:/Users/nsury/AppData/Local/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.1/lib/method_channel_url_launcher.dart
+file:///C:/Users/nsury/AppData/Local/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.1/lib/url_launcher_platform_interface.dart
+file:///C:/Users/nsury/AppData/Local/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.0+1/lib/url_launcher_web.dart
 file:///C:/Users/nsury/AppData/Local/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/hash.dart
 file:///C:/Users/nsury/AppData/Local/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/aabb2.dart
 file:///C:/Users/nsury/AppData/Local/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/aabb3.dart
@@ -677,7 +681,11 @@ file:///C:/Users/nsury/AppData/Local/flutter/packages/flutter/lib/src/widgets/wi
 file:///C:/Users/nsury/AppData/Local/flutter/packages/flutter/lib/src/widgets/widget_span.dart
 file:///C:/Users/nsury/AppData/Local/flutter/packages/flutter/lib/src/widgets/will_pop_scope.dart
 file:///C:/Users/nsury/AppData/Local/flutter/packages/flutter/lib/widgets.dart
-file:///C:/Users/nsury/myapp/.dart_tool/flutter_build/b4809db5b4da7cf69fdc67ebf77150ec/main.dart
+file:///C:/Users/nsury/AppData/Local/flutter/packages/flutter_web_plugins/lib/flutter_web_plugins.dart
+file:///C:/Users/nsury/AppData/Local/flutter/packages/flutter_web_plugins/lib/src/plugin_event_channel.dart
+file:///C:/Users/nsury/AppData/Local/flutter/packages/flutter_web_plugins/lib/src/plugin_registry.dart
+file:///C:/Users/nsury/myapp/.dart_tool/flutter_build/bc9df8610b861477e3ca774792a49439/main.dart
 file:///C:/Users/nsury/myapp/.packages
+file:///C:/Users/nsury/myapp/lib/generated_plugin_registrant.dart
 file:///C:/Users/nsury/myapp/lib/main.dart
 file:///C:/Users/nsury/myapp/lib/models/model.dart
