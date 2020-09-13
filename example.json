@@ -1,16 +1,23 @@
 [
-{
-"wallName":"anime_sad_1",
-"wallURL":"https://1.bp.blogspot.com/-IGVgm7X0zR4/X1mOg04iXII/AAAAAAAAAUg/OcgbDDU80KA-n0lQzJWuO8hHdAEh-kfzgCLcBGAsYHQ/s320/screenshot124.jpg",
-"wallSite":"wallpamo",
-"wallSiteUrl":"https://wallpamo.blogspot.com/",
-"wallIndex":"0"
-},
-{
-"wallName":"anime_sad_2",
-"wallURL":"https://1.bp.blogspot.com/-4_vFRzRh5M0/X1mOhwKbWQI/AAAAAAAAAU0/zqjTtskbeekLXRg_Z2l1XyRhHqAbND-LQCLcBGAsYHQ/s320/screenshot56.jpg",
-"wallSite":"Wallpamo",
-"wallSiteUrl":"https://wallpamo.blogspot.com/",
-"wallIndex":"1"
-}
+ {
+  "wallpaper_index":"1",
+  "wallpaper_name":"Wallpaper1",
+  "wallpaper_site_name":"Wallpaper",
+  "wallpaper_site_url":"http://google.com",
+  "wallpaper_url":"https://i.imgur.com/Z0UGroX.jpg"
+ },
+ {
+  "wallpaper_index":"2",
+  "wallpaper_name":"Wallpaper2",
+  "wallpaper_site_name":"Wallpaper",
+  "wallpaper_site_url":"http://google.com",
+  "wallpaper_url":"https://i.imgur.com/nSx1uN8.jpg"
+ },
+ {
+  "wallpaper_index":"3",
+  "wallpaper_name":"Wallpaper2",
+  "wallpaper_site_name":"Wallpaper",
+  "wallpaper_site_url":"http://google.com",
+  "wallpaper_url":"https://i.imgur.com/ezhbnQR.jpg"
+ }
 ]
