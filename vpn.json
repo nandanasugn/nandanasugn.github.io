@@ -1,0 +1,9 @@
+{
+  "servers":[
+	  {"id":0, "file":0, "city":"Singapore","country":"Singapore","image":"singapore","ip":"18.141.192.5","active":"true","signal":"a"},
+	  {"id":1, "file":1, "city":"Sydney","country":"Australia","image":"australia","ip":"52.65.50.181","active":"true","signal":"a"},
+	  {"id":2, "file":2, "city":"Paris","country":"France","image":"france","ip":"35.181.155.197","active":"true","signal":"a"},
+    {"id":3, "file":3, "city":"Montreal","country":"Canada","image":"canada","ip":"99.79.192.188","active":"true","signal":"a"},
+	  {"id":4, "file":4, "city":"Frankfurt","country":"Germany","image":"germany","ip":"3.68.104.31","active":"true","signal":"a"},
+  ]
+}
